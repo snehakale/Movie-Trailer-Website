@@ -44,11 +44,12 @@ Simple tests for this web page can be done as follows :
 - Check whether the movies are properly formatted along with their names and poster images on a web page.
 - Select any movie and check whether it's trailer is getting played or not.
 
-## Reference 
-Refer [Python 3.2 documentation](https://docs.python.org/3.2/py-modindex.html#) for modules webbroswer,os,re,csv 
+## References 
+1. [Python](https://www.python.org/)
+2. [Python csv module](https://docs.python.org/3/library/csv.html)
+3. [Python re module](https://docs.python.org/3.2/library/re.html#module-re)
+4. [Python os module](https://docs.python.org/3.2/library/os.html#module-os)
+5. [Python webbrowser module](https://docs.python.org/3.2/library/webbrowser.html#module-webbrowser)
+
 ## Author
 Sneha Kale
- 
-
-
-
